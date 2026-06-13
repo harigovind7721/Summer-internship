@@ -22,7 +22,7 @@ My contributions:
 
 ## Tech stack
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Jupyter Notebook`
 
 ## Trainer
 
